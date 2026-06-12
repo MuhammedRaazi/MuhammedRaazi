@@ -18,28 +18,6 @@ So right now, I'm doing the smart thing. I'm starting my career as a **Data Anal
 
 ---
 
-## What I've Built 🛠️
-
-**📈 Stock Market Trend Prediction**
-Short-term trend prediction using lag features and ML — my first serious attempt at understanding how markets think.
-
-**🛒 Store Item Demand Forecasting**
-Predicts next-day sales using historical patterns and seasonal trends — built because guessing inventory is expensive.
-
-**👥 Employee Retention Analysis**
-Used unsupervised learning to segment employees and find who's at risk of leaving — and more importantly, why.
-
-**🌦️ Weather Intelligence Dashboard**
-Real-time Power BI dashboard pulling live API data to track weather trends and volatility patterns.
-
-**⚾ MLB Data Analysis**
-Dug into 100 years of baseball data with SQL and window functions — because great stories hide in old datasets too.
-
-**🎓 College Result Analysis System**
-Turned messy academic data into a clean Excel-based analytics system with dashboards, arrear tracking, and student lookup.
-
----
-
 ## The Stack 🧰
 
 `Python` `SQL` `R` `Power BI` `Tableau` `Scikit-learn` `Pandas` `NumPy` `Streamlit` `Excel`
